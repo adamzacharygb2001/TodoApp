@@ -1,0 +1,19 @@
+TodoApp
+
+    >todos (app folder)
+        >migrations
+        >static
+            >todos
+                >styles.css
+
+        >templates
+            >todo
+                >todo-list
+
+        >models.py
+        >urls.py (app specific url mapping)
+        >views.py
+
+        >TodoApp
+            >setting.py
+            urls.py (url mapping)
